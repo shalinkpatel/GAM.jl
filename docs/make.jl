@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/shalinkpatel/GAM.jl",
+    devbranch = "main",
 )
