@@ -3,6 +3,9 @@ uuid = "dbf010d1-81d8-4082-a535-7f3d8c302047"
 authors = ["Shalin Patel <shalin.kp.patel@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
+
 [compat]
 julia = "1.6"
 

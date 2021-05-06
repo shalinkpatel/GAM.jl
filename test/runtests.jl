@@ -1,6 +1,3 @@
-using GAM
-using Test
+using SafeTestsets
 
-@testset "GAM.jl" begin
-    # Write your tests here.
-end
+@safetestset "Placeholder Tests" begin include("placeholder.jl") end
